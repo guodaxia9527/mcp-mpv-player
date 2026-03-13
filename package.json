@@ -1,6 +1,6 @@
 {
   "name": "mcp-mpv-player",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for controlling mpv media player on Windows",
   "type": "module",
   "main": "index.js",
@@ -22,5 +22,13 @@
     "media-player",
     "opencode"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guodaxia9527/mcp-mpv-player.git"
+  },
+  "homepage": "https://github.com/guodaxia9527/mcp-mpv-player#readme",
+  "bugs": {
+    "url": "https://github.com/guodaxia9527/mcp-mpv-player/issues"
+  }
 }
