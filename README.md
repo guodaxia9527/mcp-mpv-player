@@ -8,6 +8,8 @@ Control mpv media player through AI conversation. Play music and video, manage p
 
 Works with [opencode](https://opencode.ai/) and any MCP-compatible AI tool.
 
+[![mcp-mpv-player MCP server](https://glama.ai/mcp/servers/guodaxia9527/mcp-mpv-player/badges/card.svg)](https://glama.ai/mcp/servers/guodaxia9527/mcp-mpv-player)
+
 ## Installation
 
 Make sure [Node.js](https://nodejs.org) is installed, then run:
