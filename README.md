@@ -1,4 +1,6 @@
 # mcp-mpv-player
+[![npm version](https://img.shields.io/npm/v/mcp-mpv-player)](https://www.npmjs.com/package/mcp-mpv-player)
+[![npm downloads](https://img.shields.io/npm/dm/mcp-mpv-player)](https://www.npmjs.com/package/mcp-mpv-player)
 
 [中文文档](./README.zh.md)
 
